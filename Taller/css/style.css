@@ -3,3 +3,9 @@
    right: 30px;
    bottom: 0;
 }
+
+.boton{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  }
